@@ -63,13 +63,5 @@ Bu projede şu sorulara yanıt aranmıştır:
 
 ---
 
-## **Projeyi Çalıştırma**
 
-### Gereksinimler
-- Python 3.x
-- YouTube Data API anahtarı (API anahtarı almak için [YouTube API Developer Guide](https://developers.google.com/youtube/registering_an_application) rehberini takip edebilirsiniz).
 
-### Adımlar
-1. Bu projeyi yerel bilgisayarınıza klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/youtube-video-analiz.git
